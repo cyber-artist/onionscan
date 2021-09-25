@@ -3,9 +3,10 @@ package onionscan
 import (
 	"errors"
 	"fmt"
+	"strings"
+
 	"github.com/s-rah/onionscan/report"
 	"github.com/s-rah/onionscan/utils"
-	"strings"
 )
 
 // Pipeline is a construct for managing a set of crawls, analysis and output sinks
@@ -54,7 +55,7 @@ func (p *Pipeline) Execute(hiddenService string) {
 		// Output Report
 		p.Reports <- r
 	} else {
-		r.Error = errors.New(fmt.Sprintf("Unknown hidden service type: %v", hiddenService))
+		r.Error = errors.New(fmt.Sprintf("Unknown hidden service typeAAA: %v", hiddenService))
 		p.Reports <- r
 	}
 }
