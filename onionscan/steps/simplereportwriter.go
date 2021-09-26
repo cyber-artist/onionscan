@@ -2,10 +2,11 @@ package steps
 
 import (
 	"fmt"
-	"github.com/s-rah/onionscan/report"
 	"log"
 	"os"
 	"time"
+
+	"github.com/cyber-artist/onionscan/report"
 )
 
 // SimpleReportWriter is a PipelineStep which outputs a human friendly summary

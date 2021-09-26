@@ -2,12 +2,14 @@ package protocol
 
 import (
 	"fmt"
-	"github.com/s-rah/onionscan/config"
-	"github.com/s-rah/onionscan/report"
 
-	"github.com/s-rah/onionscan/spider"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/cyber-artist/onionscan/config"
+	"github.com/cyber-artist/onionscan/report"
+
 	"net/http"
+
+	"github.com/cyber-artist/onionscan/spider"
+	"github.com/cyber-artist/onionscan/utils"
 )
 
 type HTTPProtocolScanner struct {

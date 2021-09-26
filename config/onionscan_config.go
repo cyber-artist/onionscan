@@ -3,13 +3,14 @@ package config
 import (
 	"bufio"
 	"fmt"
-	"github.com/s-rah/onionscan/crawldb"
 	"log"
 	"net/http"
 	"os"
 	"path/filepath"
 	"strings"
 	"time"
+
+	"github.com/cyber-artist/onionscan/crawldb"
 )
 
 // OnionScanConfig defines options to tweak the overall OnionScan system.

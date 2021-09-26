@@ -1,8 +1,8 @@
 package deanonymization
 
 import (
-	"github.com/s-rah/onionscan/report"
-	"github.com/s-rah/onionscan/utils"
+	"github.com/cyber-artist/onionscan/report"
+	"github.com/cyber-artist/onionscan/utils"
 	"io/ioutil"
 	"strings"
 	"testing"
