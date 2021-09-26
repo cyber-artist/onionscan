@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/HouzuoGuo/tiedot/db"
-	"github.com/cyber-artist/onionscan/model"
+	"github.com/cyber-artist/tiedot/db"
+	"github.com/s-rah/onionscan/model"
 )
 
 // CrawlDB is the main interface for persistent storage in OnionScan

@@ -12,8 +12,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // PrivateKey extracts an exposed private key if it exists in the current crawl

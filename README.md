@@ -1,7 +1,7 @@
 # What is OnionScan?
 
 
-[![Build Status](https://travis-ci.org/cyber-artist/onionscan.svg?branch=onionscan-0.2)](https://travis-ci.org/cyber-artist/onionscan) [![Go Report Card](https://goreportcard.com/badge/github.com/cyber-artist/onionscan)](https://goreportcard.com/report/github.com/cyber-artist/onionscan)
+[![Build Status](https://travis-ci.org/s-rah/onionscan.svg?branch=onionscan-0.2)](https://travis-ci.org/s-rah/onionscan) [![Go Report Card](https://goreportcard.com/badge/github.com/s-rah/onionscan)](https://goreportcard.com/report/github.com/s-rah/onionscan)
 
 OnionScan is a free and open source tool for investigating the Dark Web. For all
 the amazing technological innovations in the anonymity and privacy space, there 
@@ -40,18 +40,18 @@ provided by the core go standard library:
 * github.com/rwcarlsen/goexif - For EXIF data extraction.
 * github.com/HouzuoGuo/tiedot/db - For crawl database.
 
-See <a href="https://github.com/cyber-artist/onionscan/wiki">the wiki</a> for guidance.
+See <a href="https://github.com/s-rah/onionscan/wiki">the wiki</a> for guidance.
 
 ### Grab with go get
 
-`go get github.com/cyber-artist/onionscan`
+`go get github.com/s-rah/onionscan`
 
 ### Compile/Run from git cloned source
 
 Once you have cloned the repository into somewhere that go can find it you can
-run `go install github.com/cyber-artist/onionscan` and then run the binary in `$GOPATH/bin/onionscan`.
+run `go install github.com/s-rah/onionscan` and then run the binary in `$GOPATH/bin/onionscan`.
 
-Alternatively, you can just do `go run github.com/cyber-artist/onionscan.go` to run without compiling.
+Alternatively, you can just do `go run github.com/s-rah/onionscan.go` to run without compiling.
 
 ## Quick Start
 

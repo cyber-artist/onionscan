@@ -8,9 +8,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/model"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/model"
+	"github.com/s-rah/onionscan/report"
 	"golang.org/x/net/proxy"
 )
 

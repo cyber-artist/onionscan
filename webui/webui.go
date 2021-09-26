@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/crawldb"
-	"github.com/cyber-artist/onionscan/utils"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/crawldb"
+	"github.com/s-rah/onionscan/utils"
 )
 
 type WebUI struct {

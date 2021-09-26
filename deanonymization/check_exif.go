@@ -5,10 +5,10 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
 	"github.com/rwcarlsen/goexif/exif"
 	"github.com/rwcarlsen/goexif/tiff"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // ExifWalker captures functionality to process all exif data obtained from an image.

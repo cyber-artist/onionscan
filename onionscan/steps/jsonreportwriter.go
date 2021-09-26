@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/report"
 )
 
 // JSONReportWriter is a sink Pipeline step used to output a JSON formated

@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // ExtractGooglePublisherID extract Google publisher ids, used for adsense marketing

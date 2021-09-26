@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/report"
 )
 
 // SimpleReportWriter is a PipelineStep which outputs a human friendly summary

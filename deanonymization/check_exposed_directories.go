@@ -4,8 +4,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // CheckExposedDirectories makes note of any directories which display a directory listing

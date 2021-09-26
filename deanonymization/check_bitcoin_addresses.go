@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // A25 is a type for a 25 byte (not base58 encoded) bitcoin address.

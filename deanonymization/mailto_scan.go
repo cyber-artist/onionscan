@@ -3,8 +3,8 @@ package deanonymization
 import (
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // MailtoScan Extracts any email addresses linked via mailto targets.

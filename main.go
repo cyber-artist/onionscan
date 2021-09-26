@@ -7,13 +7,14 @@ import (
 	"log"
 	"os"
 	"strings"
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/deanonymization"
-	"github.com/cyber-artist/onionscan/onionscan"
-	"github.com/cyber-artist/onionscan/onionscan/steps"
-	"github.com/cyber-artist/onionscan/report"
-	"github.com/cyber-artist/onionscan/utils"
-	"github.com/cyber-artist/onionscan/webui"
+
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/deanonymization"
+	"github.com/s-rah/onionscan/onionscan"
+	"github.com/s-rah/onionscan/onionscan/steps"
+	"github.com/s-rah/onionscan/report"
+	"github.com/s-rah/onionscan/utils"
+	"github.com/s-rah/onionscan/webui"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

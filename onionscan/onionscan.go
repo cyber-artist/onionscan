@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/protocol"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/protocol"
+	"github.com/s-rah/onionscan/report"
 )
 
 // OnionScan runs the main procol level scans

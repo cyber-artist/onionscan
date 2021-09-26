@@ -1,10 +1,10 @@
 package deanonymization
 
 import (
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/crawldb"
-	"github.com/cyber-artist/onionscan/model"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/crawldb"
+	"github.com/s-rah/onionscan/model"
+	"github.com/s-rah/onionscan/report"
 	"io/ioutil"
 	"net/http"
 	"os"

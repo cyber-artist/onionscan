@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/config"
-	"github.com/cyber-artist/onionscan/report"
+	"github.com/s-rah/onionscan/config"
+	"github.com/s-rah/onionscan/report"
 )
 
 // ExtractGoogleAnalyticsID extracts any Google analytics IDs e.g. UA-32423-7564

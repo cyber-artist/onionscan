@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cyber-artist/onionscan/crawldb"
+	"github.com/s-rah/onionscan/crawldb"
 )
 
 // OnionScanConfig defines options to tweak the overall OnionScan system.

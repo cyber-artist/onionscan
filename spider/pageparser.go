@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/cyber-artist/onionscan/model"
-	"github.com/cyber-artist/onionscan/utils"
+	"github.com/s-rah/onionscan/model"
+	"github.com/s-rah/onionscan/utils"
 	"golang.org/x/net/html"
 )
 
